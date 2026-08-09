@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:3B82F6,100:8B5CF6&height=210&section=header&text=Hello,%20I'm%20HAFSA+:)&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=36" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=600&color=22D3EE&center=true&vCenter=true&repeat=true&width=640&lines=Hello+World,+I'm+HA;Welcome+to+my+GitHub+universe;Code+%E2%80%A2+Coffee+%E2%80%A2+Creativity;Always+learning,+always+building" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=600&color=22D3EE&center=true&vCenter=true&repeat=true&width=640&lines=Hello+World,+I'm+HAFSA;Welcome+to+my+GitHub+universe;Code+%E2%80%A2+Coffee+%E2%80%A2+Creativity;Always+learning,+always+building" alt="Typing SVG" /></a>
 
 </div>      
 
